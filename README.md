@@ -7,4 +7,5 @@
 7. Starte den Client und gebe irgenein Name ein!
 8. Klicke auf Login 
 9. Viel Spaß! :)
+
 Copyright rexjohannes98 and SirLennox All rights reserved.
