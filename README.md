@@ -16,6 +16,7 @@ Now download Vulture, unzip it and run the Installer. (https://github.com/rexjoh
 Start the vulture client and have fun!
 Video: https://www.youtube-nocookie.com/embed/2UTW9jv-p78
 
+Local:
 
 Windows:
 
